@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "myunderwood";
+    src: url('../fonts/MyUnderwood.woff2') format("woff2"), url('../fonts/MyUnderwood.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+
+}
+
+@font-face {
+    font-family: 'rapscallion';
+    src: url('../fonts/Rapscallion.woff2') format('woff2'), url('../fonts/Rapscallion.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
